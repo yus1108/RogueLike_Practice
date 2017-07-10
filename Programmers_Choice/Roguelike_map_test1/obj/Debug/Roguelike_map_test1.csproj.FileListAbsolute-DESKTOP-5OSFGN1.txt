@@ -1,0 +1,6 @@
+C:\Users\USY\OneDrive\SchoolWork\FSU 2017 Nov\Programming I\Programmers_Choice\Roguelike_map_test1\bin\Debug\Roguelike_map_test1.exe.config
+C:\Users\USY\OneDrive\SchoolWork\FSU 2017 Nov\Programming I\Programmers_Choice\Roguelike_map_test1\bin\Debug\Roguelike_map_test1.exe
+C:\Users\USY\OneDrive\SchoolWork\FSU 2017 Nov\Programming I\Programmers_Choice\Roguelike_map_test1\bin\Debug\Roguelike_map_test1.pdb
+C:\Users\USY\OneDrive\SchoolWork\FSU 2017 Nov\Programming I\Programmers_Choice\Roguelike_map_test1\obj\Debug\Roguelike_map_test1.exe
+C:\Users\USY\OneDrive\SchoolWork\FSU 2017 Nov\Programming I\Programmers_Choice\Roguelike_map_test1\obj\Debug\Roguelike_map_test1.pdb
+C:\Users\USY\OneDrive\SchoolWork\FSU 2017 Nov\Programming I\Programmers_Choice\Roguelike_map_test1\obj\Debug\Roguelike_map_test1.csprojResolveAssemblyReference.cache
